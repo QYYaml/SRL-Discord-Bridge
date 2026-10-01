@@ -7,10 +7,13 @@
     {
       "binding": "DB",
       "database_name": "srl-discord-source-handoff",
+      "database_id": "a0b012b1-a77c-43d3-b85f-26d7d0329560",
       "migrations_dir": "migrations",
     },
   ],
   "vars": {
-    "HANDOFF_TTL_SECONDS": "1200",
+    "DISCORD_APPLICATION_ID": "1555137313615642634",
+    "DISCORD_PUBLIC_KEY": "859f7f6fc155929b3521c07de386b2494cffd1605887e9ec6b4f10d0955ca610",
+    "HANDOFF_TTL_SECONDS": "1200"
   },
 }
